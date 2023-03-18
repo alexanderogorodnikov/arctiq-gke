@@ -1,2 +1,3 @@
 # arctique-gke
-repo for arctique demo code
+
+repo for arctiq demo IaC
